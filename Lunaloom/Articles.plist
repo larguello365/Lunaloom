@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Article1</key>
+	<dict>
+		<key>Name</key>
+		<string>Snooze Smarter: Science of Perfect Sleep Timing</string>
+		<key>Image</key>
+		<string>sleep1</string>
+		<key>Intro</key>
+		<string>Getting a good night’s sleep isn’t just about the number of hours you spend in bed—it’s also about when you sleep. Understanding your body’s natural rhythms can help you wake up refreshed and full of energy. In this article, we’ll explore the science behind sleep timing and how you can use it to your advantage.</string>
+		<key>Headings</key>
+		<array>
+			<string>The Sleep Cycle Explained</string>
+			<string>How to Time Your Sleep</string>
+			<string>Tips to Optimize Your Sleep Timing</string>
+		</array>
+		<key>Paragraphs</key>
+		<array>
+			<string>Your sleep is divided into cycles, each lasting about 90 minutes. These cycles are made up of different stages:
+
+Light Sleep (Stages 1 &amp; 2): Your body starts to relax, and your brain begins to slow down.
+
+Deep Sleep (Stage 3): This is the most restorative part of sleep, where your body repairs itself and strengthens your immune system.
+
+REM Sleep (Stage 4): This stage is crucial for memory and creativity, as your brain becomes highly active and dreams occur.
+
+Waking up in the middle of a sleep cycle can leave you feeling groggy, even if you’ve had enough hours of sleep. By waking up at the end of a cycle, you’re more likely to feel alert and ready for the day.</string>
+			<string>To snooze smarter, plan your sleep so that you wake up at the end of a cycle. Here’s how:
+
+Determine Your Wake-Up Time: Start with when you need to wake up and work backward.
+
+Count Backward in 90-Minute Increments: Aim for 5 or 6 full sleep cycles (7.5 or 9 hours of sleep).
+• Example: If you need to wake up at 7:00 AM, try to fall asleep around 9:30 PM or 11:00 PM.
+
+Account for Falling Asleep: Most people take about 15 minutes to fall asleep, so include that buffer in your calculations.</string>
+			<string>Stick to a Schedule: Go to bed and wake up at the same time every day, even on weekends, to regulate your body’s internal clock.
+
+Use Sleep Apps or Calculators: These tools can help you determine the best bedtime based on your wake-up time.
+
+Avoid Sleep Disruptors: Limit caffeine, heavy meals, and screen time in the evening to help you fall asleep faster.
+
+Wind Down Before Bed: Relaxing activities like reading, meditation, or gentle stretching can signal to your body that it’s time to sleep.</string>
+		</array>
+	</dict>
+	<key>Article2</key>
+	<dict>
+		<key>Name</key>
+		<string>Nyxie&apos;s Guide to a Better Sleep: 5 Quick Wins for a Peaceful Night</string>
+		<key>Image</key>
+		<string>sleep2</string>
+		<key>Intro</key>
+		<string>Getting quality sleep is one of the best things you can do for your health, mood, and productivity. If you struggle with restless nights, don’t worry—Nyxie has you covered! Here are five quick and effective tips to help you drift off faster and wake up refreshed.</string>
+		<key>Headings</key>
+		<array>
+			<string>1. Set a Consistent Sleep Schedule</string>
+			<string>2. Create a Relaxing Wind-Down Routine</string>
+			<string>3. Optimize Your Sleep Environment</string>
+			<string>4. Limit Screen Time Before Bed</string>
+			<string>5. Be Mindful of What You Eat and Drink</string>
+		</array>
+		<key>Paragraphs</key>
+		<array>
+			<string>Your body thrives on routine, and going to bed and waking up at the same time each day helps regulate your internal clock. Even on weekends, try to stick to your schedule to maintain a steady rhythm.
+
+Quick Win: Pick a bedtime and wake-up time that you can maintain every day, even on weekends.</string>
+			<string>Prepping your mind and body for sleep is essential. Engaging in relaxing activities before bed, like reading, meditating, or stretching, can signal your body that it’s time to rest.
+
+Quick Win: Establish a 30-minute pre-bed ritual that includes calming activities like listening to soft music or dimming the lights.</string>
+			<string>Your bedroom should be a sanctuary for rest. A dark, cool, and quiet room promotes better sleep quality.
+
+Quick Win: Keep your bedroom between 60-67°F (15-19°C), use blackout curtains, and eliminate noise distractions with white noise or earplugs.
+</string>
+			<string>The blue light from screens can trick your brain into thinking it’s still daytime, making it harder to fall asleep.
+
+Quick Win: Avoid screens for at least an hour before bed or use blue-light filters if you need to check your phone or laptop.</string>
+			<string>Caffeine, alcohol, and heavy meals before bed can interfere with sleep. Opt for light, sleep-friendly snacks if you’re feeling hungry late at night.
+
+Quick Win: Swap out late-night coffee for herbal tea and avoid eating large meals at least two hours before bedtime.</string>
+		</array>
+	</dict>
+	<key>Article3</key>
+	<dict>
+		<key>Name</key>
+		<string>Unplug to Recharge: How to Create a Tech-Free Sleep Zone</string>
+		<key>Image</key>
+		<string>sleep3</string>
+		<key>Intro</key>
+		<string>In today&apos;s digital world, screens are everywhere—from our phones and tablets to TVs and laptops. But all that screen time can take a toll on your sleep. The blue light emitted by devices interferes with your body&apos;s natural sleep cycle, making it harder to fall asleep and stay asleep. Creating a tech-free sleep zone can help you relax, unwind, and get the restful night’s sleep you deserve. Here’s how to do it!</string>
+		<key>Headings</key>
+		<array>
+			<string>1. Set a Digital Curfew</string>
+			<string>2. Remove Devices from the Bedroom</string>
+			<string>3. Create a Relaxing Pre-Sleep Routine</string>
+			<string>4. Adjust Your Bedroom Lighting</string>
+			<string>5. Use Tech-Free Alternatives for Sleep Aids</string>
+		</array>
+		<key>Paragraphs</key>
+		<array>
+			<string>Blue light from screens suppresses melatonin, the hormone that helps you sleep. Reducing screen time before bed allows your body to naturally prepare for sleep.
+
+Quick Tip: Set a “no screens” rule at least 30-60 minutes before bedtime to help your body wind down.</string>
+			<string>Keeping screens out of the bedroom removes the temptation to scroll late at night. It also eliminates sleep disruptions from notifications and bright screens.
+
+Quick Tip: Charge your phone outside the bedroom or use an old-fashioned alarm clock instead of your phone’s alarm.</string>
+			<string>Instead of screen time, replace your evening routine with calming, screen-free activities.
+
+Ideas: Read a book, practice deep breathing, journal, or do some gentle stretching before bed.</string>
+			<string>Bright, artificial light at night can keep you alert when you should be winding down.
+
+Quick Tip: Use warm, dim lighting in the evening, such as bedside lamps, salt lamps, or candles, to create a cozy atmosphere.</string>
+			<string>Many people rely on their phones for white noise, guided meditation, or sleep tracking, but these can keep you tethered to screens.
+
+Quick Tip: Try using a physical white noise machine, offline meditation recordings, or a simple journal to track your sleep habits instead.</string>
+		</array>
+	</dict>
+	<key>Article4</key>
+	<dict>
+		<key>Name</key>
+		<string>Wind Down Your Way: Customizable Relaxation Techniques for Sleep</string>
+		<key>Image</key>
+		<string>sleep4</string>
+		<key>Intro</key>
+		<string>Everyone has different ways of unwinding, and finding the right relaxation techniques can make all the difference in getting a restful night’s sleep. Whether you need to release tension, quiet your mind, or create a cozy atmosphere, here are customizable ways to wind down and prepare for deep, restorative sleep.</string>
+		<key>Headings</key>
+		<array>
+			<string>1. Deep Breathing for Instant Calm</string>
+			<string>2. Gentle Stretches to Release Tension</string>
+			<string>3. Mindfulness and Meditation to Quiet the Mind</string>
+			<string>4. Create a Sensory-Friendly Sleep Environment</string>
+			<string>5. Journaling to Clear Your Mind</string>
+		</array>
+		<key>Paragraphs</key>
+		<array>
+			<string>If stress or anxiety keeps you up at night, deep breathing exercises can help signal your body to relax.
+
+Try This:
+
+4-7-8 Breathing: Inhale for 4 seconds, hold for 7 seconds, exhale for 8 seconds.
+
+Belly Breathing: Place a hand on your stomach and breathe deeply, expanding your diaphragm.</string>
+			<string>Stretching before bed can relieve built-up tension in your muscles and prepare your body for rest.
+
+Try This:
+
+Child’s Pose: Relaxes the back and shoulders.
+
+Legs-Up-The-Wall: Improves circulation and promotes relaxation.
+
+Neck Rolls: Eases stiffness from screen time and daily stress.</string>
+			<string>A busy mind can keep you tossing and turning. Practicing mindfulness or guided meditation can help slow racing thoughts and ease you into sleep.
+
+Try This:
+
+Body Scan Meditation: Focus on different areas of your body, releasing tension as you go.
+
+Gratitude Reflection: Think of three things you’re grateful for to shift your mind to a positive state.
+
+Guided Sleep Meditations: Listen to an audio meditation designed for bedtime.</string>
+			<string>Engaging your senses with calming stimuli can make it easier to drift off.
+
+Try This:
+
+Aromatherapy: Lavender or chamomile essential oils can promote relaxation.
+
+White Noise or Nature Sounds: Drown out distractions with soothing background sounds.
+
+Soft Lighting: Dim, warm lighting helps signal your body that it’s time to wind down.</string>
+			<string>Writing down your thoughts before bed can help process emotions and reduce overthinking.
+
+Try This:
+
+Brain Dump: Write down anything that’s on your mind to release worries before sleep.
+
+Gratitude List: End the day on a positive note by listing things that made you happy.
+
+Tomorrow’s Plan: Jot down key tasks for the next day to avoid mentally planning in bed.</string>
+		</array>
+	</dict>
+	<key>Article5</key>
+	<dict>
+		<key>Name</key>
+		<string>From Tossing to Tranquil: How to Fix a Restless Night</string>
+		<key>Image</key>
+		<string>sleep5</string>
+		<key>Intro</key>
+		<string>Struggling with restless nights? Whether you’re tossing and turning due to stress, discomfort, or an overactive mind, there are simple strategies to help you transition from sleepless frustration to peaceful rest. Here’s how to calm your body and mind when sleep feels out of reach.</string>
+		<key>Headings</key>
+		<array>
+			<string>1. Get Out of Bed (Yes, Really!)</string>
+			<string>2. Cool Down Your Room</string>
+			<string>3. Breathe Away the Restlessness</string>
+			<string>4. Avoid the Clock</string>
+			<string>5. Adjust Your Evening Routine</string>
+		</array>
+		<key>Paragraphs</key>
+		<array>
+			<string>If you’ve been lying awake for more than 20 minutes, don’t just stay there frustrated. Getting up and doing a calming activity can help reset your sleep cycle.
+
+Try This:
+
+Read a book under soft lighting.
+
+Practice deep breathing or meditation.
+
+Stretch lightly to relax your muscles.</string>
+			<string>Temperature plays a huge role in sleep quality. If you’re feeling too warm, your body may struggle to stay in deep sleep.
+
+Try This:
+
+Adjust your thermostat to around 65°F (18°C), the ideal sleep temperature.
+
+Use breathable cotton or linen bedding.
+
+Take a warm shower before bed to trigger a cooling effect.</string>
+			<string>An overactive mind can keep you awake, making it difficult to settle down. Breathing techniques can slow your heart rate and promote relaxation.
+
+Try This:
+
+4-7-8 Breathing: Inhale for 4 seconds, hold for 7, and exhale for 8.
+
+Box Breathing: Inhale for 4 seconds, hold for 4, exhale for 4, and hold for 4.
+
+Progressive Muscle Relaxation: Tense and release each muscle group from head to toe.</string>
+			<string>Watching the minutes tick by only increases stress, making it harder to fall asleep.
+
+Try This:
+
+Turn your alarm clock away from your view.
+
+Set an audio-only alarm if you rely on your phone.
+
+Remind yourself that rest (even if you’re not sleeping) is still beneficial.</string>
+			<string>Your habits before bed set the stage for restful sleep. If restlessness is a frequent issue, fine-tuning your evening routine can help.
+
+Try This:
+
+Cut off caffeine at least 6 hours before bed.
+
+Set a regular sleep schedule—even on weekends.
+
+Dim the lights an hour before bedtime to encourage melatonin production.</string>
+		</array>
+	</dict>
+	<key>Article6</key>
+	<dict>
+		<key>Name</key>
+		<string>Nyxie&apos;s Top Picks: Relaxing Sleep Playlists You’ll Love</string>
+		<key>Image</key>
+		<string>sleep6</string>
+		<key>Intro</key>
+		<string>The right sounds can transform your bedtime routine, helping you drift into a deep, restful sleep. Whether you prefer soft melodies, nature sounds, or guided meditations, these curated playlists will set the perfect mood for relaxation.</string>
+		<key>Headings</key>
+		<array>
+			<string>1. Deep Sleep Instrumentals</string>
+			<string>2. Nature’s Lullaby</string>
+			<string>3. ASMR &amp; White Noise Bliss</string>
+			<string>4. Guided Meditations for Sleep</string>
+			<string>5. Lo-Fi &amp; Chill Beats</string>
+		</array>
+		<key>Paragraphs</key>
+		<array>
+			<string>Soft, soothing instrumentals can create a peaceful atmosphere that lulls you into sleep.
+
+🎵 Try These Playlists:
+
+Dreamy Piano Nights – Gentle piano melodies to ease your mind.
+
+Acoustic Serenity – Light guitar and soft strings for a cozy ambiance.
+
+Orchestral Slumber – Slow-moving symphonies designed to calm the body and mind.</string>
+			<string>If you love the sound of rain or ocean waves, nature sounds can create a comforting, immersive sleep environment.
+
+🌿 Try These Playlists:
+
+Rainy Night Retreat – Gentle raindrops and distant thunder for ultimate relaxation.
+
+Forest Dreams – Rustling leaves, chirping crickets, and distant waterfalls.
+
+Ocean Waves &amp; Seabreeze – The rhythmic sound of waves to lull you into a deep slumber.</string>
+			<string>White noise and ASMR (Autonomous Sensory Meridian Response) sounds can help mask background noise and create a tranquil space.
+
+🔊 Try These Playlists:
+
+White Noise Wonders – Fan hums, air conditioners, and gentle static.
+
+Soft Whispers &amp; Tingles – ASMR whispering and crinkling sounds for a cozy feel.
+
+Binaural Beats for Sleep – Subtle frequencies designed to promote deep relaxation.</string>
+			<string>Meditation playlists can help you let go of stress and focus on deep breathing before bed.
+
+🧘 Try These Playlists:
+
+Sleep Stories &amp; Guided Relaxation – Narrated bedtime stories and calming visualizations.
+
+Mindfulness &amp; Breathwork – Short meditation exercises to quiet the mind.
+
+Healing Frequencies – Gentle tones designed to reduce anxiety and improve sleep.</string>
+			<string>For those who find comfort in mellow beats, lo-fi music provides a gentle, repetitive rhythm to help ease into sleep.
+
+🎶 Try These Playlists:
+
+Lo-Fi Dreams – Chill beats with soft melodies.
+
+Midnight Jazz &amp; Blues – Slow, smoky jazz to set a relaxed mood.
+
+Ambient Chillout – Electronic ambient music for a dreamy escape.</string>
+		</array>
+	</dict>
+</dict>
+</plist>
